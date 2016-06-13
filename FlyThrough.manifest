@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"f8e919dd-11d9-4374-99cb-5698ef4d8a77",
+	"author":	"Brian Ekins",
+	"description":	{
+		"":	"Let user pick points or sketch curves for the camera to use for eye and target points."
+	},
+	"version":	"",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac"
+}
